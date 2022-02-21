@@ -1,0 +1,2 @@
+# bingostarcoin
+bingostar coin
